@@ -1,0 +1,7 @@
+Dear [NAME],
+
+A new Internet speed report for you.
+UPLOAD speed - [up_speed]
+DOWNLOAD speed - [down_speed]
+
+Also, a screenshot for sure
